@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902426880427",
+    "project_id": "moprogapp",
+    "storage_bucket": "moprogapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902426880427:android:20dcdd828be27219080aee",
+        "android_client_info": {
+          "package_name": "com.example.myappdev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2AuybVan3uR8l5vYp_JbrdJOF84V6LJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
